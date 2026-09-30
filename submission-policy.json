@@ -1,0 +1,6 @@
+{
+  "assignment": "project1",
+  "allowed": ["Nechelik_Data.csv", "project1.py"],
+  "tests": [],
+  "message": "Complete project 1"
+}
